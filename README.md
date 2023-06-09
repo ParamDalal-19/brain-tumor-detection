@@ -16,6 +16,11 @@ The brain tumor detection project utilizes the following steps:
 
 5. Result Visualization: The project provides visualizations of the original brain image, the isolated tumor region, and the boundaries of the detected tumor.
 
+
+## Output
+
+![image not available](https://ibb.co/hmCx57G)
+
 ## How to Use
 
 1. Clone the repository:
