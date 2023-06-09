@@ -21,7 +21,7 @@ The brain tumor detection project utilizes the following steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/brain-tumor-detection.git
+git clone git@github.com:ParamDalal-19/brain-tumor-detection.git
 ```
 
 2. Install MATLAB and ensure the required dependencies are installed.
