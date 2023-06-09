@@ -19,7 +19,7 @@ The brain tumor detection project utilizes the following steps:
 
 ## Output
 
-![image not available](https://ibb.co/hmCx57G)
+![image not available](https://drive.google.com/file/d/1NwGPzKwlge-U9eRkxNao3S9YZ6Ealkk-/view?usp=drive_link)
 
 ## How to Use
 
